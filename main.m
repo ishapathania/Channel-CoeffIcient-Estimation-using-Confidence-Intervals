@@ -1,4 +1,4 @@
-% ECE 514 Mini-project Fall 2021 
+% ECE 514 Project Fall 2021 
 clear;
 close all;
 clc;
